@@ -1,6 +1,6 @@
 if SHIELD_MOCK_CORNE
 
 config ZMK_KEYBOARD_NAME
-	default "Mock Corne (save"
+	default "Mock Corne (auto"
 
 endif # SHIELD_MOCK_CORNE
