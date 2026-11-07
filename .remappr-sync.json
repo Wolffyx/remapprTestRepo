@@ -3,13 +3,13 @@
   "items": [
     {
       "slug": "remappr-qmk-test",
-      "version": 1,
+      "version": 2,
       "source": "remappr/remappr-qmk-test.remappr.json",
       "target": "qmk",
       "generated": [
         {
           "path": "keyboards/rtest_qmk/keyboard.json",
-          "blob": "adec7a2ad62b675b5dd6cab1dd97d0dd0b24e580"
+          "blob": "6b31fbb82a9dbed2b91455ffc08ea1bc8adf9d04"
         },
         {
           "path": "keyboards/rtest_qmk/keymaps/remappr/keymap.c",
@@ -26,10 +26,6 @@
         {
           "path": "qmk.json",
           "blob": "f983cdacecfd1392c0c6a18e1540dae1184fa605"
-        },
-        {
-          "path": ".github/workflows/build_binaries.yml",
-          "blob": "b505ad66963e4893283225e820ac33ec7f626fd0"
         },
         {
           "path": "via/rtest_qmk.json",
