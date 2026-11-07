@@ -38,11 +38,10 @@
         {
           "path": "zephyr/module.yml",
           "blob": "1cc2b356238c1d926a82ccdc532ecb095c3fac19"
-        },
-        {
-          "path": "build.yaml",
-          "blob": "bbe56fea311eddad3d60885513f3b3186e16f78a"
         }
+      ],
+      "kept": [
+        "build.yaml"
       ]
     }
   ]
