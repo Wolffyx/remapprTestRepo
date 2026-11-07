@@ -3,30 +3,24 @@
   "kind": "remappr.keymap",
   "meta": {
     "name": "Remappr QMK Test",
-    "target": "qmk",
     "author": "wolffyx",
+    "description": "Release build check 2026-11-07T21:16:17.154Z",
+    "target": "qmk",
     "vendorId": "0xFEED",
-    "productId": "0x0101",
-    "description": "Release build check 2026-11-07T21:16:17.154Z"
+    "productId": "0x0101"
   },
   "keyboard": {
     "id": "rtest_qmk",
     "name": "Remappr QMK Test",
     "keys": [
+      {},
       {
-        "x": 0,
-        "y": 0
+        "x": 1
       },
       {
-        "x": 1,
-        "y": 0
+        "x": 2
       },
       {
-        "x": 2,
-        "y": 0
-      },
-      {
-        "x": 0,
         "y": 1
       },
       {
@@ -56,7 +50,10 @@
     },
     "firmware": [
       "qmk",
-      "via"
+      "via",
+      "vial",
+      "zmk",
+      "remappr"
     ]
   },
   "layers": [
@@ -82,10 +79,7 @@
         "2",
         "3",
         "C_VOL_UP",
-        "C_VOL_DN",
-        {
-          "type": "transparent"
-        }
+        "C_VOL_DN"
       ]
     }
   ]

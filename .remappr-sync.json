@@ -17,11 +17,11 @@
         },
         {
           "path": "keyboards/rtest_qmk/keymaps/remappr/rules.mk",
-          "blob": "1eafc188c8f38417e26c780187c97da84f16a167"
+          "blob": "f49d1c738222850b48fecfbdb2a124d69691cfd2"
         },
         {
           "path": "keyboards/rtest_qmk/keymaps/remappr/config.h",
-          "blob": "3548d61beac94b386b989de012e946952b61a89f"
+          "blob": "9dafc4d1b1bf2f9d4138ee9f099e9fd3e377f6ff"
         },
         {
           "path": "qmk.json",
@@ -29,6 +29,10 @@
         },
         {
           "path": "via/rtest_qmk.json",
+          "blob": "a8afd593db47919546b38d0e04efdf36f96c3d1e"
+        },
+        {
+          "path": "keyboards/rtest_qmk/keymaps/remappr/vial.json",
           "blob": "a8afd593db47919546b38d0e04efdf36f96c3d1e"
         }
       ]
