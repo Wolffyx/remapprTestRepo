@@ -2,7 +2,9 @@ name: Build QMK firmware
 on: [push, pull_request, workflow_dispatch]
 jobs:
   build:
-    uses: qmk/.github/workflows/qmk_userspace_build.yml@main
+    uses: qmk/.github/.github/workflows/qmk_userspace_build.yml@main
+    permissions:
+      contents: write
     with:
       qmk_repo: vial-kb/vial-qmk
       qmk_ref: vial
