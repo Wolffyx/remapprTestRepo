@@ -3,7 +3,7 @@
   "items": [
     {
       "slug": "mock-corne",
-      "version": 6,
+      "version": 7,
       "source": "remappr/mock-corne.remappr.json",
       "target": "zmk",
       "generated": [
@@ -13,7 +13,7 @@
         },
         {
           "path": "config/mock_corne.conf",
-          "blob": "813f20a782a08d18c8854eded24e74a3c204aaf0"
+          "blob": "ae038d482847cf20b48d6056482aebf610782446"
         },
         {
           "path": "boards/shields/mock_corne/Kconfig.shield",
@@ -21,11 +21,11 @@
         },
         {
           "path": "boards/shields/mock_corne/Kconfig.defconfig",
-          "blob": "467c838234db849aff1a77fc80a53a5fe7474167"
+          "blob": "a31aa0304d4e3d5f171d9f3bd09b1e7ef6457942"
         },
         {
           "path": "boards/shields/mock_corne/mock_corne.zmk.yml",
-          "blob": "3c2142705966a510b9ec9135b8b8eccc37d67c35"
+          "blob": "72c3282751cb5da79e36718bc91c5ec178a7a6e0"
         },
         {
           "path": "boards/shields/mock_corne/mock_corne.overlay",

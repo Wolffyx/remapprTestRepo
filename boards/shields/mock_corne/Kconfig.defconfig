@@ -1,6 +1,6 @@
 if SHIELD_MOCK_CORNE
 
 config ZMK_KEYBOARD_NAME
-	default "Mock Corne (edit"
+	default "Mock Corne (note"
 
 endif # SHIELD_MOCK_CORNE
