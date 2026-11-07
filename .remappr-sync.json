@@ -1,0 +1,41 @@
+{
+  "generator": "remappr@0.1.0",
+  "items": [
+    {
+      "slug": "remappr-qmk-test",
+      "version": 1,
+      "source": "remappr/remappr-qmk-test.remappr.json",
+      "target": "qmk",
+      "generated": [
+        {
+          "path": "keyboards/rtest_qmk/keyboard.json",
+          "blob": "adec7a2ad62b675b5dd6cab1dd97d0dd0b24e580"
+        },
+        {
+          "path": "keyboards/rtest_qmk/keymaps/remappr/keymap.c",
+          "blob": "2e767ad1f6b2c92f4e78c6bb8c68819b4b25bb3e"
+        },
+        {
+          "path": "keyboards/rtest_qmk/keymaps/remappr/rules.mk",
+          "blob": "1eafc188c8f38417e26c780187c97da84f16a167"
+        },
+        {
+          "path": "keyboards/rtest_qmk/keymaps/remappr/config.h",
+          "blob": "3548d61beac94b386b989de012e946952b61a89f"
+        },
+        {
+          "path": "qmk.json",
+          "blob": "f983cdacecfd1392c0c6a18e1540dae1184fa605"
+        },
+        {
+          "path": ".github/workflows/build_binaries.yml",
+          "blob": "10705956b93f600b89dd366a96ef096e49a2b8a1"
+        },
+        {
+          "path": "via/rtest_qmk.json",
+          "blob": "a8afd593db47919546b38d0e04efdf36f96c3d1e"
+        }
+      ]
+    }
+  ]
+}
