@@ -1,4 +1,57 @@
 {
   "generator": "remappr@0.1.0",
-  "items": []
+  "items": [
+    {
+      "slug": "mock-corne",
+      "version": 1,
+      "source": "remappr/mock-corne.remappr.json",
+      "target": "zmk",
+      "generated": [
+        {
+          "path": "boards/shields/mock_corne/mock_corne.keymap",
+          "blob": "82f0cdae8bbe717e7510c5688e0d18975bb835d1"
+        },
+        {
+          "path": "config/mock_corne.conf",
+          "blob": "c9fbb0dd437b79a90359e01ced7fcf328b4b7624"
+        },
+        {
+          "path": "boards/shields/mock_corne/Kconfig.shield",
+          "blob": "a5b51239447004bc064c295ce5d9b1dfcbd2473b"
+        },
+        {
+          "path": "boards/shields/mock_corne/Kconfig.defconfig",
+          "blob": "75ca74a290d8c8a1c3341059c04b2c0dddf31086"
+        },
+        {
+          "path": "boards/shields/mock_corne/mock_corne.zmk.yml",
+          "blob": "721f974cd9489437e76f6b180a4d9b45e5933b3c"
+        },
+        {
+          "path": "boards/shields/mock_corne/mock_corne.overlay",
+          "blob": "413145bdccbbbc815e66183b129c79543be2578c"
+        },
+        {
+          "path": "config/west.yml",
+          "blob": "60074939728877bfabb3310b8147981f92f57e84"
+        },
+        {
+          "path": "zephyr/module.yml",
+          "blob": "1cc2b356238c1d926a82ccdc532ecb095c3fac19"
+        },
+        {
+          "path": "build.yaml",
+          "blob": "bbe56fea311eddad3d60885513f3b3186e16f78a"
+        },
+        {
+          "path": ".github/workflows/build.yml",
+          "blob": "982568fc5912ce167b289c66761fb9c323f9b85d"
+        },
+        {
+          "path": "README.md",
+          "blob": "5ce0387321e0efff59e5590293921a9c8ffc950e"
+        }
+      ]
+    }
+  ]
 }

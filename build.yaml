@@ -1,0 +1,3 @@
+include:
+  - board: YOUR_BOARD
+    shield: mock_corne
