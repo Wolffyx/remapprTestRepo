@@ -157,7 +157,7 @@
   },
   "layers": [
     {
-      "name": "base",
+      "name": "Base (GitHub)",
       "description": "QWERTY with home-row mods and thumb layer-taps.",
       "bindings": [
         "Q",
