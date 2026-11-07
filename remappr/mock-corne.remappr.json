@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "kind": "remappr.keymap",
   "meta": {
-    "name": "Mock Corne (edited here)",
+    "name": "Mock Corne (saved version)",
     "author": "remappr",
     "version": "1.0.0",
     "description": "36-key Corne — the demo device. Source of truth for the demo: the runtime editing buffer is lowered from this config, edits raise back into it, and download compiles it per firmware. Base layer mirrors a QWERTY + home-row-mods layout; the lower/raise layers exercise firmware-gated features.",
