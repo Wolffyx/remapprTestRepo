@@ -3,13 +3,13 @@
   "items": [
     {
       "slug": "remappr-vial-test",
-      "version": 1,
+      "version": 2,
       "source": "remappr/remappr-vial-test.remappr.json",
       "target": "qmk",
       "generated": [
         {
           "path": "keyboards/rtest_vial/keyboard.json",
-          "blob": "50cd3e09deb69207173c007e1bd8a06ef83d5349"
+          "blob": "ccff956a9d86620de88eb72f480e70cd93f819ee"
         },
         {
           "path": "keyboards/rtest_vial/keymaps/remappr/keymap.c",
@@ -26,10 +26,6 @@
         {
           "path": "qmk.json",
           "blob": "575c01886872292b8e0dc944f52cd33eb483bd1d"
-        },
-        {
-          "path": ".github/workflows/build_binaries.yml",
-          "blob": "1fd635e8a24858c0a2b219296cac4d35e0ed76b0"
         },
         {
           "path": "via/rtest_vial.json",

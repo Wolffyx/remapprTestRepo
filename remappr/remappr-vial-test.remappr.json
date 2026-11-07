@@ -6,7 +6,8 @@
     "target": "qmk",
     "author": "wolffyx",
     "vendorId": "0xFEED",
-    "productId": "0x0102"
+    "productId": "0x0102",
+    "description": "Release build check 2026-11-07T21:16:21.232Z"
   },
   "keyboard": {
     "id": "rtest_vial",

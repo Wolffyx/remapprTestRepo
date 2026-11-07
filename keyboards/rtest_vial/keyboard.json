@@ -1,5 +1,6 @@
 {
     "keyboard_name": "Remappr Vial Test",
+    "manufacturer": "wolffyx",
     "maintainer": "wolffyx",
     "usb": {
         "vid": "0xFEED",
