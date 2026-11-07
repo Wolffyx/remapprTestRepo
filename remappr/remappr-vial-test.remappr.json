@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "kind": "remappr.keymap",
+  "meta": {
+    "name": "Remappr Vial Test",
+    "target": "qmk",
+    "author": "wolffyx",
+    "vendorId": "0xFEED",
+    "productId": "0x0102"
+  },
+  "keyboard": {
+    "id": "rtest_vial",
+    "name": "Remappr Vial Test",
+    "keys": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      }
+    ],
+    "controller": {
+      "processor": "RP2040",
+      "bootloader": "rp2040",
+      "deviceVersion": "1.0.0"
+    },
+    "pins": {
+      "rows": [
+        "GP2",
+        "GP3"
+      ],
+      "cols": [
+        "GP4",
+        "GP5",
+        "GP6"
+      ]
+    },
+    "firmware": [
+      "qmk",
+      "via",
+      "vial"
+    ],
+    "vial": {
+      "uid": [
+        60,
+        145,
+        94,
+        7,
+        162,
+        68,
+        216,
+        31
+      ],
+      "unlockKeys": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    }
+  },
+  "layers": [
+    {
+      "name": "base",
+      "bindings": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        {
+          "type": "layer",
+          "mode": "momentary",
+          "layer": "fn"
+        }
+      ]
+    },
+    {
+      "name": "fn",
+      "bindings": [
+        "1",
+        "2",
+        "3",
+        "C_VOL_UP",
+        "C_VOL_DN",
+        {
+          "type": "transparent"
+        }
+      ]
+    }
+  ]
+}

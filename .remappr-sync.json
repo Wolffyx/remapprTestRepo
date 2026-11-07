@@ -1,0 +1,45 @@
+{
+  "generator": "remappr@0.1.0",
+  "items": [
+    {
+      "slug": "remappr-vial-test",
+      "version": 1,
+      "source": "remappr/remappr-vial-test.remappr.json",
+      "target": "qmk",
+      "generated": [
+        {
+          "path": "keyboards/rtest_vial/keyboard.json",
+          "blob": "50cd3e09deb69207173c007e1bd8a06ef83d5349"
+        },
+        {
+          "path": "keyboards/rtest_vial/keymaps/remappr/keymap.c",
+          "blob": "4d5703f8c16cc5a3aa0e0449a171099a6f5a1f9b"
+        },
+        {
+          "path": "keyboards/rtest_vial/keymaps/remappr/rules.mk",
+          "blob": "f49d1c738222850b48fecfbdb2a124d69691cfd2"
+        },
+        {
+          "path": "keyboards/rtest_vial/keymaps/remappr/config.h",
+          "blob": "ac740ed5f1b0833639dc54e41419c9fffb47e713"
+        },
+        {
+          "path": "qmk.json",
+          "blob": "575c01886872292b8e0dc944f52cd33eb483bd1d"
+        },
+        {
+          "path": ".github/workflows/build_binaries.yml",
+          "blob": "5daed1834c869f5fa8a4980ed3e6780c4b201e33"
+        },
+        {
+          "path": "via/rtest_vial.json",
+          "blob": "c979f7caab244f0c36a31031be0b89f52487f6a6"
+        },
+        {
+          "path": "keyboards/rtest_vial/keymaps/remappr/vial.json",
+          "blob": "c979f7caab244f0c36a31031be0b89f52487f6a6"
+        }
+      ]
+    }
+  ]
+}
