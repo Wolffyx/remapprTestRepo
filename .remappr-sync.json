@@ -28,10 +28,6 @@
           "blob": "575c01886872292b8e0dc944f52cd33eb483bd1d"
         },
         {
-          "path": ".github/workflows/build_binaries.yml",
-          "blob": "5daed1834c869f5fa8a4980ed3e6780c4b201e33"
-        },
-        {
           "path": "via/rtest_vial.json",
           "blob": "c979f7caab244f0c36a31031be0b89f52487f6a6"
         },
