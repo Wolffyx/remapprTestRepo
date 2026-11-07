@@ -29,7 +29,7 @@
         },
         {
           "path": ".github/workflows/build_binaries.yml",
-          "blob": "10705956b93f600b89dd366a96ef096e49a2b8a1"
+          "blob": "b505ad66963e4893283225e820ac33ec7f626fd0"
         },
         {
           "path": "via/rtest_qmk.json",
