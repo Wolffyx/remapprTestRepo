@@ -3,7 +3,7 @@
   "items": [
     {
       "slug": "remappr-qmk-test",
-      "version": 7,
+      "version": 8,
       "source": "remappr/remappr-qmk-test.remappr.json",
       "target": "qmk",
       "generated": [
@@ -13,7 +13,7 @@
         },
         {
           "path": "keyboards/rtest_qmk/keymaps/remappr/keymap.c",
-          "blob": "e9bec79abf5d5ad9af87704af9f73bfb705b2abd"
+          "blob": "e8c1cb6856d940d944e0e4f23967fe2db1c57838"
         },
         {
           "path": "keyboards/rtest_qmk/keymaps/remappr/rules.mk",

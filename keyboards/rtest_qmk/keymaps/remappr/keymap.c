@@ -5,7 +5,7 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT( // base gh
-        KC_Q, KC_B, KC_C, KC_D, KC_E, MO(1)
+        KC_W, KC_B, KC_C, KC_D, KC_E, MO(1)
     ),
     [1] = LAYOUT( // fn2
         KC_1, KC_2, KC_3, KC_AUDIO_VOL_UP, KC_AUDIO_VOL_DOWN, KC_TRNS
