@@ -68,12 +68,12 @@
         {
           "type": "layer",
           "mode": "momentary",
-          "layer": "fn"
+          "layer": "fn2"
         }
       ]
     },
     {
-      "name": "fn gh",
+      "name": "fn2",
       "bindings": [
         "1",
         "2",
